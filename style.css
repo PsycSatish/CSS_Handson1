@@ -1,0 +1,31 @@
+h1 {
+    color: red;
+}
+h2 {
+    color: orangered;
+    font-style: italic;
+}
+ol {
+    color: brown;
+    text-indent: 0em;
+    line-height: 3;
+}
+div{
+    letter-spacing: 3px;
+    color: brown;
+}
+
+p {
+    color: brown;
+}
+a {
+    font-style: italic;
+    color: orangered;
+    text-decoration: none;
+}
+.highlighted {
+    background-color: yellow;
+}
+.strike {
+    text-decoration: line-through;
+}
